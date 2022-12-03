@@ -1,0 +1,8 @@
+E:\Csharp\Lab_1_bool\Lab_1_ushort\bin\Debug\Lab_1_ushort.exe.config
+E:\Csharp\Lab_1_bool\Lab_1_ushort\bin\Debug\Lab_1_ushort.exe
+E:\Csharp\Lab_1_bool\Lab_1_ushort\bin\Debug\Lab_1_ushort.pdb
+E:\Csharp\Lab_1_bool\Lab_1_ushort\obj\Debug\Lab_1_ushort.csproj.AssemblyReference.cache
+E:\Csharp\Lab_1_bool\Lab_1_ushort\obj\Debug\Lab_1_ushort.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\Lab_1_bool\Lab_1_ushort\obj\Debug\Lab_1_ushort.csproj.CoreCompileInputs.cache
+E:\Csharp\Lab_1_bool\Lab_1_ushort\obj\Debug\Lab_1_ushort.exe
+E:\Csharp\Lab_1_bool\Lab_1_ushort\obj\Debug\Lab_1_ushort.pdb
